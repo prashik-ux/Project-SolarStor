@@ -62,6 +62,3 @@ PVLib Documentation: https://pvlib-python.readthedocs.io/
 -`Open-source contributors to PVLib, PyPSA, and OpenModelica`
 
 
-## ⚖️ License
-This project is licensed under the MIT License – see the LICENSE file for full details.
-
